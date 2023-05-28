@@ -22,9 +22,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning PHP;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 🚀 I Autamated Softwares on [New Softwares](https://newsoftwares.in);
+- 📝 I regulary write Blogs on [SKST](https://skst.in);
 - 📫 How to reach me: info@newsoftwares.in;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 [Resume](https://skst.in).
 
 </br>
 
