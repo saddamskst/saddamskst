@@ -22,9 +22,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning PHP;
 - 💬 Ask me about anything, I am happy to help;
-- 🚀 I Autamated Softwares on [New Softwares](https://newsoftwares.in);
-- 📝 I regulary write Blogs on [SKST](https://skst.in);
-- 📫 How to reach me: info@newsoftwares.in;
+- 🚀 I Autamated Softwares on [SKST Technologies](https://skst.in);
+###- 📝 I regulary write Blogs on [SKST](https://skst.in);
+- 📫 How to reach me: saddam@skst.in;
 - 📝 [Resume](https://skst.in).
 
 </br>
