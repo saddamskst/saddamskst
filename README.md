@@ -14,6 +14,7 @@
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres &theme=light&perline=6" />
   </a>
+  </br>
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=wordpress,ps,pr,ai,au,ae,notion,tailwind" />
   </a>
