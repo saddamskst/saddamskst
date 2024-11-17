@@ -10,6 +10,7 @@
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
   </a>
+</br>
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres &theme=light&perline=6" />
   </a>
