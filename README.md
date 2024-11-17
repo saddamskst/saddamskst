@@ -8,11 +8,11 @@
 ###
 <p align="center">
   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet,django,flask,firebase,flutter,r,postgres&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
   </a>
-<!--   <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=, &theme=light" />
-  </a> -->
+  <a href="https://skst.in">
+    <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres &theme=light&perline=6" />
+  </a>
   <a href="https://skst.in">
     <img src="https://skillicons.dev/icons?i=wordpress,ps,pr,ai,au,ae,notion,tailwind" />
   </a>
