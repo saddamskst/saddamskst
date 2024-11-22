@@ -1,5 +1,3 @@
-<p align="center"><img align="center" width="280" src="./samcux/DarkLogo.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="280" src="./samcux/LightLogo.svg#gh-light-mode-only"/></p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Saddam!;" />
