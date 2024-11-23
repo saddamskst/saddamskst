@@ -73,7 +73,7 @@
 
 - 👨‍💻 **Content Creator**\
 📆 Jul 2024 - Present\
-📍 **Youtube** 
+📍 **Youtube**  - Online
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
