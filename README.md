@@ -65,7 +65,7 @@
 📆 Aug 2021 - Aug 2024\
 📍 **Raniganj Institute Of Information Technology (RiiT)** - Raniganj, India
 
-## Experience
+### Experience
 
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
@@ -103,7 +103,7 @@
 
 
 
-## Skills
+### Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
