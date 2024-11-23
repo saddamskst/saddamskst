@@ -74,7 +74,7 @@
 - 👨‍💻 **Content Creator**\
 📆 Jul 2024 - Present\
 📍 **Youtube**  - Online
-
+##
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -85,7 +85,7 @@
 - 👨‍💻 **Software Engineer**\
 📆 Aug 2019 - Present\
 📍 **Skill Course** - Mumbai, India
-
+##
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
