@@ -127,6 +127,18 @@
 
 </details>
 
+<details>
+  <summary>📱 Mobile</summary>
+  
+
+| Name                 | A short summary                              | Stars   | Framework |
+| -------------------- | -------------------------------------------- | --------- | --------- |
+| [Movie Recommendation System](https://github.com/saddamskst/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
+
+
+</details>
+
 
 
 <picture>
